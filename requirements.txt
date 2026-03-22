@@ -1,0 +1,15 @@
+streamlit
+anthropic>=0.21.0
+google-generativeai>=0.8.0
+folium
+streamlit-folium
+branca
+jinja2
+osmnx
+scikit-learn
+networkx
+pandas
+numpy
+python-dotenv
+requests
+groq>=0.4.0

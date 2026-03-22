@@ -1,0 +1,24 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "off",
+  "useLibraryCodeForTypes": true,
+  "reportMissingModuleSource": "none",
+  "reportPrivateImportUsage": "none",
+  "reportMissingImports": "none",
+  "reportUndefinedVariable": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportArgumentType": "none",
+  "reportCallIssue": "none",
+  "reportIndexIssue": "none",
+  "reportOperatorIssue": "none",
+  "reportReturnType": "none",
+  "reportGeneralTypeIssues": "none",
+  "exclude": [
+    ".venv",
+    "**/__pycache__",
+    "cache"
+  ]
+}
